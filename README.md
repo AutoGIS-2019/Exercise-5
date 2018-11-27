@@ -14,7 +14,7 @@ For this exercise a folder called **`docs`** has been created for storing and pu
 
 - Complete the mid-term feedback :)
 - At least 1 static map in `.png` format stored in the `docs`-folder (problem 1)
-- At least 1 interactive map in `.html` formad stored in the `docs`-folder (problem 2)
+- At least 1 interactive map in `.html` format stored in the `docs`-folder (problem 2)
 - All codes (`.ipynb` or `.py` -files) and input data (or links to input data) provided in this exercise-5 repository (problems 1 and 2)
 - Published maps at: `https://autoGIS-2018.github.io/exercise-5-YourGitHubUsername/filename*` containing online versions of your interactive and static maps (problem 3) 
 - Links to the published maps stored in the [**docs/index.md -file**](docs/index.md) (problem 3)
