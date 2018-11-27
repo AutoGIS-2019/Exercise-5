@@ -75,7 +75,7 @@ to continue developing and improving the course.
 - Provide a short description of each map in the [**docs/index.md -file**](docs/index.md)
 - Publish your maps with github pages 
   - the url of your maps will be `https://autoGIS-2018.github.io/exercise-5-YourGitHubUsername/filename*`
-  - See instructions how to edit settings and publish the page on the course webpages [here](https://automating-gis-processes.github.io/2018/lessons/L5/share-on-github.html#sharing-interactive-plots-on-github).
+  - See instructions on **how to edit repo settings and publish contents of the docs folder using github pages** on the course webpages [here](https://automating-gis-processes.github.io/2018/lessons/L5/share-on-github.html#sharing-interactive-plots-on-github).
   - IF you feel like it, please share your published map(s) in our Slack channel! :)
 
 
