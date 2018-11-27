@@ -8,7 +8,7 @@ For this exercise a folder called **docs** has been created for storing and publ
 - Complete the mid-term feedback :)
 - At least 1 static map in .png format stored in the docs-folder (problem 1)
 - At least 1 interactive map in .html formad stored in the docs-folder (problem 2)
-- All codes (.ipynb or .py -files) and input data (or links to input data) provided (problems 1 and 2)
+- All codes (.ipynb or .py -files) and input data (or links to input data) provided in this exercise-5 repository (problems 1 and 2)
 - Published page at: `https://autoGIS-2018.github.io/exercise-5-YourGitHubUsername` containing online links to your interactive and static maps (problem 3)
 
 For both maps, think a bit about the audience of the map, and pay attention to your cartographic choises. You can read a few useful hints about [what to consider when creating maps from this post](https://www.gislounge.com/ten-things-to-consider-when-making-a-map/). 
@@ -25,23 +25,40 @@ to continue developing and improving the course.
 
 
 
-## Problem 1: Visualize a static map with multiple layers on it (8 points)
+## Problem 1: Visualize a static map (8 points)
 
 - Your task is to create a nice static map using the skills you leared in [lesson 5: static maps](https://automating-gis-processes.github.io/2018/notebooks/L5/static_maps.html). **Create as interesting, good and beautiful STATIC map(s) as you can**.
-- You should select a theme for your map: 
-  - The visualization can be based on for example the travel time data we have used during this course, but you are free to visualize any dataset you like.
-  - **Use your imagination**, you can e.g. do some calculations based on the datasets used during this course (travel time data, population data, address points..) or use the analysis outputs that we have done earlier in the course (for example the dominance areas or travel times for shopping centers in Exercise 3). 
-- Remember to commit the code you used for generating the plots inside this exercise-5 repository (also provide the data, or at least a link to the input data used)
-- Save your map(s) as png image, and store the output file(s) in the **docs** folder (You will need the png files in problem 3!)
+- **Topic of the map:**
+  - You can select the topic of the map freely. **Use your imagination.**
+  - Feel free to adapt examples provided in this course! You can e.g. do some calculations based on the datasets used during this course (travel time data, population data, address points..) or use the analysis outputs that we have done earlier in the course (for example the dominance areas or travel times for shopping centers in Exercise 3). 
+- **Criteria:**
+  - The map should have with multiple layers on it and/or present an output of (simple) data analysis
+  - Consider [good cartographic practices](https://www.gislounge.com/ten-things-to-consider-when-making-a-map/)
+  - The map should demonstrate skills learned during [lesson 5: static maps](https://automating-gis-processes.github.io/2018/notebooks/L5/static_maps.html) and troughout this course.
+- **Output:**
+  - Remember to commit the code you used for generating the plots inside this exercise-5 repository (also provide the data, or at least a link to the input data used)
+  - Save your map(s) as png image
+  - store the output file(s) in the **docs** folder (You will need the png files in problem 3!)
   
 
 ## Problem 2: Visualize an interactive map (10 points)
 
 - Your task is to create a nice INTERACTIVE map using the skills you leared in [lesson 5: interactive maps](https://automating-gis-processes.github.io/2018/notebooks/L5/interactive-map-folium.html). **Create as interesting, good and beautiful INTERACTIVE map(s) as you can** using either Folium or mplleaflet. 
-- **Use your imagination**, you can e.g. do some calculations based on the datasets used during this course (travel time data, population data, address points..) or use the analyses that we have done earlier in the course. 
-- Think about including interactive elements, such as popup text in the map.
-- Remember to commit the code you used for generating the plots inside this exercise-5 repository. (also provide the data, or at least a link to the input data used)
-- Store the interactive map(s) in .html format in the **docs** folder. (You will need them in problem 3!)
+
+
+- **Topic of the map:**
+  - You can select the topic of the map freely. **Use your imagination.**
+  - This map should not be only an interactive version of your submission for problem 1 ;). Create shomething new!
+  - Feel free to adapt examples provided in this course! You can e.g. do some calculations based on the datasets used during this course (travel time data, population data, address points..) or use the analysis outputs that we have done earlier in the course (for example the dominance areas or travel times for shopping centers in Exercise 3). 
+- **Criteria:**
+  - The map should have with multiple layers on it and/or present an output of (simple) data analysis
+  - Consider [good cartographic practices](https://www.gislounge.com/ten-things-to-consider-when-making-a-map/)
+  - The map should demonstrate skills learned during [lesson 5: interactive maps](https://automating-gis-processes.github.io/2018/notebooks/L5/interactive-map-folium.html) and troughout this course. You can also take advantage of the [Folium example gallery](https://nbviewer.jupyter.org/github/python-visualization/folium/tree/master/examples/).
+  - Think about including additional interactive elements, such as popup text in the map.
+ - **Output:**
+  - Remember to commit the code you used for generating the plots (also provide the data, or at least a link to the input data used)
+  - Store the interactive map(s) in .html format
+  - store the output file(s) in the **docs** folder (You will need the png files in problem 3!)
 
 
 ## Problem 3: Publish your maps online (2 points)
