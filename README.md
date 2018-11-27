@@ -33,7 +33,7 @@ to continue developing and improving the course.
 - Your task is to create a nice static map using the skills you leared in [lesson 5: static maps](https://automating-gis-processes.github.io/2018/notebooks/L5/static_maps.html). **Create as interesting, good and beautiful STATIC map(s) as you can**.
 - **Topic of the map:**
   - You can select the topic of the map freely. **Use your imagination.**
-  - Feel free to adapt examples provided in this course! You can e.g. do some calculations based on the datasets used during this course (travel time data, population data, address points..) or use the analysis outputs that we have done earlier in the course (for example the dominance areas or travel times for shopping centers in Exercise 3). 
+  - Feel free to adapt examples provided in this course! You can e.g. do some calculations based on the datasets used during this course (travel time data, population data, address points..) or use the analysis outputs that we have done earlier in the course (for example the dominance areas or travel times for shopping centers). 
 - **Criteria:**
   - The map should have multiple layers on it and/or present an output of a (simple) data analysis
   - Consider [good cartographic practices](https://www.gislounge.com/ten-things-to-consider-when-making-a-map/)
@@ -52,7 +52,7 @@ to continue developing and improving the course.
 - **Topic of the map:**
   - You can select the topic of the map freely. **Use your imagination.**
   - This map should not be only an interactive version of your submission for problem 1 ;). Create shomething new!
-  - Feel free to adapt examples provided in this course! You can e.g. do some calculations based on the datasets used during this course (travel time data, population data, address points..) or use the analysis outputs that we have done earlier in the course (for example the dominance areas or travel times for shopping centers in Exercise 3). 
+  - Feel free to adapt examples provided in this course! You can e.g. do some calculations based on the datasets used during this course (travel time data, population data, address points..) or use the analysis outputs that we have done earlier in the course (for example the dominance areas or travel times for shopping centers). 
 - **Criteria:**
   - The map should have multiple layers on it and/or present an output of (simple) data analysis
   - Consider [good cartographic practices](https://www.gislounge.com/ten-things-to-consider-when-making-a-map/)
