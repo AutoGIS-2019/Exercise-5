@@ -43,7 +43,7 @@ to continue developing and improving the course.
   - store the output file(s) in the **`docs`** folder (You will need the png files in problem 3!)
   
 
-## Problem 2: Visualize an interactive map (10 points)
+## Problem 2: Visualize an interactive map (8 points)
 
 - Your task is to create a nice INTERACTIVE map using the skills you leared in [lesson 5: interactive maps](https://automating-gis-processes.github.io/2018/notebooks/L5/interactive-map-folium.html). **Create as interesting, good and beautiful INTERACTIVE map(s) as you can** using either Folium or mplleaflet. 
 
@@ -63,7 +63,7 @@ to continue developing and improving the course.
   - store the output file(s) in the **`docs`** folder (You will need the png files in problem 3!)
 
 
-## Problem 3: Publish your maps online (2 points)
+## Problem 3: Publish your maps online (4 points)
 
  You should now have **ALL** your maps stored in the **`docs`** folder inside this repository
 - Add links to those maps in the specific Entrance page [index.md -file](docs/index.md) that you can find in the **docs** folder. 
