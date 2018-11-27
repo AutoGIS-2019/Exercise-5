@@ -39,7 +39,7 @@ to continue developing and improving the course.
   - Consider [good cartographic practices](https://www.gislounge.com/ten-things-to-consider-when-making-a-map/)
   - The map should demonstrate skills learned during [lesson 5: static maps](https://automating-gis-processes.github.io/2018/notebooks/L5/static_maps.html) and throughout this course.
 - **Output:**
-  - Remember to commit the code you used for generating the plots inside this exercise-5 repository (also provide the data, or at least a link to the input data used)
+  - Remember to commit the code you used for generating the plots (also provide the data, or at least a link to the input data used)
   - Save your map(s) as png image
   - store the output file(s) in the **`docs`** folder (You will need the png files in problem 3!)
   
