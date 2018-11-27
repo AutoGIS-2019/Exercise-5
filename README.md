@@ -5,10 +5,11 @@ This week we will practice how to create 1) static and 2) interactive maps in Py
 For this exercise a folder called **docs** has been created for storing and publishing the outputs. You should store the output maps under the docs folder (problems 1 and 2), and publish them online (problem 3).
 
 **EXPECTED OUTPUTS:**
+- Complete the mid-term feedback :)
 - At least 1 static map in .png format stored in the docs-folder (problem 1)
 - At least 1 interactive map in .html formad stored in the docs-folder (problem 2)
 - All codes (.ipynb or .py -files) and input data (or links to input data) provided (problems 1 and 2)
-- Published page at: autoGIS-2018.github.io/exercise-5-YourGitHubUsername containing online links to your interactive and static maps (problem 3)
+- Published page at: `https://autoGIS-2018.github.io/exercise-5-YourGitHubUsername` containing online links to your interactive and static maps (problem 3)
 
 For both maps, think a bit about the audience of the map, and pay attention to your cartographic choises. You can read a few useful hints about [what to consider when creating maps from this post](https://www.gislounge.com/ten-things-to-consider-when-making-a-map/). 
 
