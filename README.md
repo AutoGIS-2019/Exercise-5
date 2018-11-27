@@ -36,7 +36,7 @@ to continue developing and improving the course.
 - **Criteria:**
   - The map should have with multiple layers on it and/or present an output of (simple) data analysis
   - Consider [good cartographic practices](https://www.gislounge.com/ten-things-to-consider-when-making-a-map/)
-  - The map should demonstrate skills learned during [lesson 5: static maps](https://automating-gis-processes.github.io/2018/notebooks/L5/static_maps.html) and troughout this course.
+  - The map should demonstrate skills learned during [lesson 5: static maps](https://automating-gis-processes.github.io/2018/notebooks/L5/static_maps.html) and throughout this course.
 - **Output:**
   - Remember to commit the code you used for generating the plots inside this exercise-5 repository (also provide the data, or at least a link to the input data used)
   - Save your map(s) as png image
@@ -55,7 +55,7 @@ to continue developing and improving the course.
 - **Criteria:**
   - The map should have with multiple layers on it and/or present an output of (simple) data analysis
   - Consider [good cartographic practices](https://www.gislounge.com/ten-things-to-consider-when-making-a-map/)
-  - The map should demonstrate skills learned during [lesson 5: interactive maps](https://automating-gis-processes.github.io/2018/notebooks/L5/interactive-map-folium.html) and troughout this course. You can also take advantage of the [Folium example gallery](https://nbviewer.jupyter.org/github/python-visualization/folium/tree/master/examples/).
+  - The map should demonstrate skills learned during [lesson 5: interactive maps](https://automating-gis-processes.github.io/2018/notebooks/L5/interactive-map-folium.html) and throughout this course. You can also take advantage of the [Folium example gallery](https://nbviewer.jupyter.org/github/python-visualization/folium/tree/master/examples/).
   - Think about including additional interactive elements, such as popup text in the map.
 - **Output:**
   - Remember to commit the code you used for generating the plots (also provide the data, or at least a link to the input data used)
