@@ -12,8 +12,9 @@ Here is an example how to do it in MarkDown for user HTenkanen:
 
 ## My maps
 
-Add here links to the maps that you have created:
+Edit the text below and add links to the maps that you have created:
 
+ - [My static map]()
+ - [My interactive map]()
  - [Link to test map](https://automating-gis-processes.github.io/exercise-5-HTenkanen/test_map.html)
- - Replace this with your link
 
