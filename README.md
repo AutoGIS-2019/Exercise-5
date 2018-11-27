@@ -6,8 +6,8 @@ For this exercise a folder called **`docs`** has been created for storing and pu
 
 **EXPECTED OUTPUTS:**
 - Complete the mid-term feedback :)
-- At least 1 static map in .png format stored in the `docs`-folder (problem 1)
-- At least 1 interactive map in .html formad stored in the `docs`-folder (problem 2)
+- At least 1 static map in `.png` format stored in the `docs`-folder (problem 1)
+- At least 1 interactive map in `.html` formad stored in the `docs`-folder (problem 2)
 - All codes (`.ipynb` or `.py` -files) and input data (or links to input data) provided in this exercise-5 repository (problems 1 and 2)
 - Published page at: `https://autoGIS-2018.github.io/exercise-5-YourGitHubUsername` containing online links to your interactive and static maps (problem 3)
 
@@ -55,7 +55,7 @@ to continue developing and improving the course.
   - Consider [good cartographic practices](https://www.gislounge.com/ten-things-to-consider-when-making-a-map/)
   - The map should demonstrate skills learned during [lesson 5: interactive maps](https://automating-gis-processes.github.io/2018/notebooks/L5/interactive-map-folium.html) and troughout this course. You can also take advantage of the [Folium example gallery](https://nbviewer.jupyter.org/github/python-visualization/folium/tree/master/examples/).
   - Think about including additional interactive elements, such as popup text in the map.
- - **Output:**
+- **Output:**
   - Remember to commit the code you used for generating the plots (also provide the data, or at least a link to the input data used)
   - Store the interactive map(s) in .html format
   - store the output file(s) in the **`docs`** folder (You will need the png files in problem 3!)
