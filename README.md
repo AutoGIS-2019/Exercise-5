@@ -34,7 +34,7 @@ to continue developing and improving the course.
 ## Problem 1: Visualize a static map (8 points)
 
 - Your task is to create a nice static map using the skills you leared in [lesson 5: static maps](https://automating-gis-processes.github.io/2018/notebooks/L5/static_maps.html). **Create as interesting, good and beautiful STATIC map(s) as you can**.
-- Create a new notebook file (.ipynb) for plotting the map(s) (or if you wish, you can write your code into a python script file (.py)
+- Create a new notebook file (.ipynb) for plotting the map(s) (or if you wish, you can write your code into a python script file (.py))
 - **Topic of the map:**
   - You can select the topic of the map freely. **Use your imagination.**
   - Feel free to adapt examples provided in this course! You can e.g. do some calculations based on the datasets used during this course (travel time data, population data, address points..) or use the analysis outputs that we have done earlier in the course (for example the dominance areas or travel times for shopping centers). 
@@ -51,7 +51,7 @@ to continue developing and improving the course.
 ## Problem 2: Visualize an interactive map (10 points)
 
 - Your task is to create a nice INTERACTIVE map using the skills you leared in [lesson 5: interactive maps](https://automating-gis-processes.github.io/2018/notebooks/L5/interactive-map-folium.html). **Create as interesting, good and beautiful INTERACTIVE map(s) as you can** using either Folium or mplleaflet. 
-- Create a new notebook file (.ipynb) for plotting the map(s) (or if you wish, you can write your code into a python script file (.py)
+- Create a new notebook file (.ipynb) for plotting the map(s) (or if you wish, you can write your code into a python script file (.py))
 
 - **Topic of the map:**
   - You can select the topic of the map freely. **Use your imagination.**
