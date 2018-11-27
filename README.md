@@ -1,6 +1,8 @@
 # Exercise-5
 
-This week we will practice how to create 1) static and 2) interactive maps in Python. In this exercise, there is no ready-made Notebook-file to start with. All instructions are given in this readme.md -file and you should create all necessary files for completing the exercise (notebook-file or a python script file, and the output maps in `.png` and `.html` format). 
+This week we will practice how to create 1) static and 2) interactive maps in Python. The goal of this exercise is to allow you to focus on cartographic visualization with Python, and to play around and explore different possibilities of the available visualization packages.
+
+In this exercise, there is no ready-made Notebook-file to start with. All instructions are given in this readme.md -file and you should create all necessary files for completing the exercise (notebook-file or a python script file, and the output maps in `.png` and `.html` format). 
 
 For this exercise a folder called **`docs`** has been created for storing and publishing the outputs. You should store the output maps under the `docs` folder (problems 1 and 2), and publish them online (problem 3).
 
@@ -65,7 +67,11 @@ to continue developing and improving the course.
 
  You should now have **ALL** your maps stored in the **`docs`** folder inside this repository
 - Add links to those maps in the specific Entrance page [index.md -file](docs/index.md) that you can find in the **docs** folder. 
+- There are more instructions how the links should be formatted in the [**docs/index.md -file**](docs/index.md) 
 - Provide a short description of each map in the [**docs/index.md -file**](docs/index.md)
-- There are more instructions how the links should be formatted in the [**docs/index.md -file**](docs/index.md) and you can find more detailed instructions for storing the maps on course webpages [here](https://automating-gis-processes.github.io/2018/lessons/L5/share-on-github.html#sharing-interactive-plots-on-github).
+- Publish your maps with github pages 
+  - the url of your page will be `https://autoGIS-2018.github.io/exercise-5-YourGitHubUsername`
+  - See instructions how to edit settings and publish the page on the course webpages [here](https://automating-gis-processes.github.io/2018/lessons/L5/share-on-github.html#sharing-interactive-plots-on-github).
+  - IF you feel like it, please share your published page in our Slack channel! :)
 
 
