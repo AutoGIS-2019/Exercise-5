@@ -55,7 +55,7 @@ to continue developing and improving the course.
 
 - **Topic of the map:**
   - You can select the topic of the map freely. **Use your imagination.**
-  - This map should not be only an interactive version of your submission for problem 1 ;). Create shomething new!
+  - This map should not be only an interactive version of your submission for problem 1 ;). Create something new!
   - Feel free to adapt examples provided in this course! You can e.g. do some calculations based on the datasets used during this course (travel time data, population data, address points..) or use the analysis outputs that we have done earlier in the course (for example the dominance areas or travel times for shopping centers). 
 - **Criteria:**
   - The map should have multiple layers on it and/or present an output of (simple) data analysis
