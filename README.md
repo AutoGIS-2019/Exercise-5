@@ -6,7 +6,12 @@ In this exercise, there is no ready-made Notebook-file to start with. All instru
 
 For this exercise a folder called **`docs`** has been created for storing and publishing the outputs. You should store the output maps under the `docs` folder (problems 1 and 2), and publish them online (problem 3).
 
-**EXPECTED OUTPUTS:**
+- **Exercise 5 is due by the end of day on Wednesday the 5th of December.**
+
+- Scores on this exercise are out of 20 points. 
+
+### EXPECTED OUTPUTS
+
 - Complete the mid-term feedback :)
 - At least 1 static map in `.png` format stored in the `docs`-folder (problem 1)
 - At least 1 interactive map in `.html` formad stored in the `docs`-folder (problem 2)
@@ -16,9 +21,7 @@ For this exercise a folder called **`docs`** has been created for storing and pu
 
 For both maps, think a bit about the audience of the map, and pay attention to your cartographic choises. You can read a few useful hints about [what to consider when creating maps from this post](https://www.gislounge.com/ten-things-to-consider-when-making-a-map/). 
 
-- **Exercise 5 is due by the end of day on Wednesday the 5th of December.**
 
-- Scores on this exercise are out of 20 points. 
 
 
 ## Problem 0: Feedback for the first half of the course in Period II
