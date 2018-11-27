@@ -1,6 +1,6 @@
 # Exercise-5
 
-This week we will practice how to create 1) static and 2) interactive maps in Python. The goal of this exercise is to allow you to focus on cartographic visualization with Python, and to play around and explore different possibilities of the available visualization packages.
+This week we will practice how to create **static and interactive maps using Python**. The goal of this exercise is to allow you to focus on cartographic visualization with Python, and to play around and explore different possibilities of the available visualization packages.
 
 In this exercise, there is no ready-made Notebook-file to start with. All instructions are given in this readme.md -file and you should create all necessary files for completing the exercise (notebook-file or a python script file, and the output maps in `.png` and `.html` format). 
 
