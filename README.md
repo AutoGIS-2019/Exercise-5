@@ -16,7 +16,7 @@ For this exercise a folder called **`docs`** has been created for storing and pu
 
 For both maps, think a bit about the audience of the map, and pay attention to your cartographic choises. You can read a few useful hints about [what to consider when creating maps from this post](https://www.gislounge.com/ten-things-to-consider-when-making-a-map/). 
 
-- Exercise 5 is due by the end of day on Wednesday the 5th of December.
+- **Exercise 5 is due by the end of day on Wednesday the 5th of December.**
 
 - Scores on this exercise are out of 20 points. 
 
