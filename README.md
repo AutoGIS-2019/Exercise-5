@@ -45,7 +45,7 @@ to continue developing and improving the course.
 - **Output:**
   - Remember to commit the code you used for generating the plots (also provide the data, or at least a link to the input data used)
   - Save your map(s) as png image
-  - store the output file(s) in the **`docs`** folder (You will need the png files in problem 3!)
+  - store the output file(s) in the **`docs`** folder (You will need the files in problem 3!)
   
 
 ## Problem 2: Visualize an interactive map (10 points)
@@ -65,7 +65,7 @@ to continue developing and improving the course.
 - **Output:**
   - Remember to commit the code you used for generating the plots (also provide the data, or at least a link to the input data used)
   - Store the interactive map(s) in .html format
-  - store the output file(s) in the **`docs`** folder (You will need the png files in problem 3!)
+  - store the output file(s) in the **`docs`** folder (You will need the files in problem 3!)
 
 
 ## Problem 3: Publish your maps online (2 points)
