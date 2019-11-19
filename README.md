@@ -6,9 +6,9 @@ In this exercise, there is no ready-made Notebook-file to start with. All instru
 
 For this exercise a folder called **`docs`** has been created for storing and publishing the outputs. You should store the output maps under the `docs` folder (problems 1 and 2), and publish them online (problem 3).
 
-- **Exercise 5 is due by the end of day on Wednesday the 5th of December.**
+- **Exercise 5 is due by 16:00 on Wednesday the 4th of December.**
 
-- Scores on this exercise are out of 20 points. 
+- You can gain 20 points from this exercise. 
 
 ### EXPECTED OUTPUTS
 
@@ -21,19 +21,16 @@ For this exercise a folder called **`docs`** has been created for storing and pu
 
 For both maps, think a bit about the audience of the map, and pay attention to your cartographic choises. You can read a few useful hints about [what to consider when creating maps from this post](https://www.gislounge.com/ten-things-to-consider-when-making-a-map/). 
 
-
-
-
 ## Problem 0: Feedback for the first half of the course in Period II
 
-Having completed the first half of the AutoGIS course, we would again ask you to complete [this mid-term feedback form](https://elomake.helsinki.fi/lomakkeet/84893/lomake.html) to help us
+Having completed the first half of the AutoGIS course, we would again ask you to complete [this mid-term feedback form]() to help us
 to continue developing and improving the course.
 
 
 
 ## Problem 1: Visualize a static map (8 points)
 
-- Your task is to create a nice static map using the skills you leared in [lesson 5: static maps](https://automating-gis-processes.github.io/2018/notebooks/L5/static_maps.html). **Create as interesting, good and beautiful STATIC map(s) as you can**.
+- Your task is to create a nice static map using the skills you leared in [lesson 5: static maps](https://automating-gis-processes.github.io/site/notebooks/L5/static_maps.html). **Create as interesting, good and beautiful STATIC map(s) as you can**.
 - Create a new notebook file (.ipynb) for plotting the map(s) (or if you wish, you can write your code into a python script file (.py))
 - **Topic of the map:**
   - You can select the topic of the map freely. **Use your imagination.**
@@ -41,7 +38,7 @@ to continue developing and improving the course.
 - **Criteria:**
   - The map should have multiple layers on it and/or present an output of a (simple) data analysis
   - Consider [good cartographic practices](https://www.gislounge.com/ten-things-to-consider-when-making-a-map/)
-  - The map should demonstrate skills learned during [lesson 5: static maps](https://automating-gis-processes.github.io/2018/notebooks/L5/static_maps.html) and throughout this course.
+  - The map should demonstrate skills learned during [lesson 5: static maps](https://automating-gis-processes.github.io/site/notebooks/L5/static_maps.html) and throughout this course.
 - **Output:**
   - Remember to commit the code you used for generating the plots (also provide the data, or at least a link to the input data used)
   - Save your map(s) as png image
@@ -50,7 +47,7 @@ to continue developing and improving the course.
 
 ## Problem 2: Visualize an interactive map (10 points)
 
-- Your task is to create a nice INTERACTIVE map using the skills you leared in [lesson 5: interactive maps](https://automating-gis-processes.github.io/2018/notebooks/L5/interactive-map-folium.html). **Create as interesting, good and beautiful INTERACTIVE map(s) as you can** using either Folium or mplleaflet. 
+- Your task is to create a nice INTERACTIVE map using the skills you leared in [lesson 5: interactive maps](https://automating-gis-processes.github.io/site/notebooks/L5/interactive-map-folium.html). **Create as interesting, good and beautiful INTERACTIVE map(s) as you can** using either Folium or mplleaflet. 
 - Create a new notebook file (.ipynb) for plotting the map(s) (or if you wish, you can write your code into a python script file (.py))
 
 - **Topic of the map:**
@@ -76,7 +73,7 @@ to continue developing and improving the course.
 - Provide a short description of each map in the [**docs/index.md -file**](docs/index.md)
 - Publish your maps with github pages 
   - the url of your maps will be `https://autoGIS-2018.github.io/exercise-5-YourGitHubUsername/filename*`
-  - See instructions on **how to edit repo settings and publish contents of the docs folder using github pages** on the course webpages [here](https://automating-gis-processes.github.io/2018/lessons/L5/share-on-github.html#sharing-interactive-plots-on-github).
+  - See instructions on **how to edit repo settings and publish contents of the docs folder using github pages** on the course webpages [here](https://automating-gis-processes.github.io/site/lessons/L5/share-on-github.html#sharing-interactive-plots-on-github).
   - IF you feel like it, please share your published map(s) in our Slack channel! :)
 
 
