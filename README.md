@@ -16,7 +16,7 @@ For this exercise a folder called **`docs`** has been created for storing and pu
 - At least 1 static map in `.png` format stored in the `docs`-folder (problem 1)
 - At least 1 interactive map in `.html` format stored in the `docs`-folder (problem 2)
 - All codes (`.ipynb` or `.py` -files) and input data (or links to input data) provided in this exercise-5 repository (problems 1 and 2)
-- Published maps at: `https://autoGIS-2018.github.io/exercise-5-YourGitHubUsername/filename*` containing online versions of your interactive and static maps (problem 3) 
+- Published maps at: `https://autoGIS-2019.github.io/exercise-5-YourGitHubUsername/filename*` containing online versions of your interactive and static maps (problem 3) 
 - Links to the published maps stored in the [**docs/index.md -file**](docs/index.md) (problem 3)
 
 For both maps, think a bit about the audience of the map, and pay attention to your cartographic choises. You can read a few useful hints about [what to consider when creating maps from this post](https://www.gislounge.com/ten-things-to-consider-when-making-a-map/). 
