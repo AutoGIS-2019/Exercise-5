@@ -25,12 +25,12 @@ Create a static map using the skills you leared in [lesson 5: static maps](https
 **Criteria:**
 - The map should have multiple layers on it
 - The map should portay some kind of classification and/or an analysis output (not just the raw data).
-- Consider [good cartographic practices](https://www.gislounge.com/ten-things-to-consider-when-making-a-map/) (map extent, appropriate crs, zoom level, color chouses, legend, credit data sources etc.)
+- Consider [good cartographic practices](https://www.gislounge.com/ten-things-to-consider-when-making-a-map/) (map extent, zoom level, color choises, legend, credit data sources etc.)
 - The map should demonstrate skills learned during [lesson 5: static maps](https://automating-gis-processes.github.io/site/notebooks/L5/static_maps.html) and throughout this course.
 
-- **Output:**
-  - Remember to commit the code and input data (or at least a link to input data)
-  - Save your map(s) as png image in the **`docs`** folder  
+**Output:**
+- Remember to commit the code and input data (or at least a link to input data)
+- Save your map(s) as png image in the **`docs`** folder  
 
 ## Problem 2: Visualize an interactive map (10 points)
 
@@ -42,14 +42,14 @@ Create a nice INTERACTIVE map using the skills you leared in [lesson 5: interact
 - Feel free to adapt examples provided in this course!
 
 **Criteria:**
-  - The map should have multiple layers on it and/or present an output of (simple) data analysis
-  - Consider [good cartographic practices](https://www.gislounge.com/ten-things-to-consider-when-making-a-map/)
-  - The map should demonstrate skills learned during [lesson 5: interactive maps](https://automating-gis-processes.github.io/2018/notebooks/L5/interactive-map-folium.html) and throughout this course. You can also take advantage of the [Folium example gallery](https://nbviewer.jupyter.org/github/python-visualization/folium/tree/master/examples/).
-  - Think about including additional interactive elements, such as popup text in the map.
+- The map should have multiple layers on it and/or present an output of (simple) data analysis
+- Consider [good cartographic practices](https://www.gislounge.com/ten-things-to-consider-when-making-a-map/)
+- The map should demonstrate skills learned during [lesson 5: interactive maps](https://automating-gis-processes.github.io/2018/notebooks/L5/interactive-map-folium.html) and throughout this course. You can also take advantage of the [Folium example gallery](https://nbviewer.jupyter.org/github/python-visualization/folium/tree/master/examples/).
+- Think about including additional interactive elements, such as popup text in the map.
 
 **Output:**
-  - Remember to commit the code and input data (or at least a link to input data)
-  - Save your map(s) in .html format in the **`docs`** folder
+- Remember to commit the code and input data (or at least a link to input data)
+- Save your map(s) in .html format in the **`docs`** folder
 
 
 ## Problem 3: Publish your maps online (2 points)
