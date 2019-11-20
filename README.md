@@ -16,7 +16,7 @@ Having completed the first half of the AutoGIS course, we would again ask you to
 
 ## Problem 1: Visualize a static map (8 points)
 
-Create a static map using the skills you leared in [lesson 5: static maps](https://automating-gis-processes.github.io/site/notebooks/L5/static_maps.html). The map should contain multiple layers of data (at least two different data sets), and you should pay attention to the classification and visualization (colors, edges etc.) when creating the map. Write your code into a notebook file (`.ipynb`) or a python script file (.py) and store the output map(s) in `.png` format under the `docs` folder.
+Create a static map using the skills you leared in [lesson 5: static maps](https://automating-gis-processes.github.io/site/notebooks/L5/static_maps.html). The map should contain multiple layers of data (at least two different data sets), and you should pay attention to the classification and visualization (colors, edges etc.) when creating the map. Write your code into a notebook file (`.ipynb`) or a python script file (`.py`) and store the output map(s) in `.png` format under the `docs` folder.
 
 **Topic of the map:**
 - You can either use the data sets we have already used during this course (eg. the Travel Time Matrix, or population grid), or you can select some other data set of your interest (for example, statistics in postal code areas).
