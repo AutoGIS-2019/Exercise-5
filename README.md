@@ -11,7 +11,7 @@ In this exercise, there is no ready-made Notebook-file to start with. All instru
 
 ## Problem 0: Feedback for the first half of the course in Period II
 
-Having completed the first half of the AutoGIS course, we would again ask you to complete [this mid-term feedback form]() to help us to continue developing and improving the course.
+Having completed the first half of the AutoGIS course, we would again ask you to complete [this mid-term feedback form](https://elomake.helsinki.fi/lomakkeet/102086/lomake.html) to help us to continue developing and improving the course.
 
 
 ## Problem 1: Visualize a static map (8 points)
@@ -65,7 +65,7 @@ Create a nice INTERACTIVE map using the skills you leared in [lesson 5: interact
   
 ### Summary of the expected outputs
 
-- Complete the mid-term feedback :)
+- Complete the mid-term feedback :) https://elomake.helsinki.fi/lomakkeet/102086/lomake.html
 - At least 1 static map in `.png` format stored in the `docs`-folder (problem 1)
 - At least 1 interactive map in `.html` format stored in the `docs`-folder (problem 2)
 - All codes (`.ipynb` or `.py` -files) and input data (or links to input data) provided in this exercise-5 repository 
